@@ -1,4 +1,4 @@
-# Competency-Based Platform Project
+# Competency-Based Platform Project: Eduxel
 
 This project consists of five notebooks, each detailing a crucial step in the process of creating a Competency-Based Platform. Here's a breakdown of the steps:
 
